@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import tweepy
 import logging
 import time
